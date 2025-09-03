@@ -1,0 +1,22 @@
+# IntelliJ IDEA specific
+.idea/
+*.iml
+out/
+
+# Mac / Linux / Windows OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Compiled Java class files
+*.class
+
+# Build directories
+bin/
+build/
+target/
+
+# Others
+*.swp
